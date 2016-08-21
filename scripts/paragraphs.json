@@ -1,0 +1,47 @@
+{
+"paragraphs":[
+    {
+    "id":"para1",
+    "content": "Harkamalpreet kaur"
+    },
+    {
+        "id":"paraA",
+        "content":"Student- software engineering technician"
+    },{
+        "id":"paraB",
+        "content":"Centennial college"
+    },{
+        "id":"paraC" ,
+        "content":"Believe in yourself"
+    },{
+        "id":"paraD",
+        "content":"Anything is possible"
+    },
+    { 
+        "id":"para2",
+        "content":"Project# 1: Flight booking form using CSS and HTML."
+    },{
+        "id":"para2A",
+        "content":"Project# 2: Webpage on BMW."
+    },{
+        "id":"para2B",
+        "content":"Project# 3: Energy Conservation Assignment."
+    },{
+        "id":"para3",
+        "content":"Some of things I like to do are:"
+    } ,{
+        "id":"para3A",
+        "content":"painting"
+    } ,{
+        "id":"para3B",
+        "content":"Desgining"
+    } ,{
+        "id":"para3C",
+        "content":"Travelling"
+    } ,{
+        "id":"para3D",
+        "content":"Listening Music"
+    } 
+    
+]
+}

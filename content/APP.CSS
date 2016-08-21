@@ -1,0 +1,20 @@
+body{
+background-image: url(../assets/bg.jpg);
+background-repeat: no-repeat;
+background-image: fixed;
+	font-family: arial, sans-serif;
+	text-align: center;
+}
+img{
+	float: left;
+}
+a{
+	text-decoration: none;
+color: black;
+}
+.row{
+	background-color: rgba(255,255,255,0.5);
+	
+}
+
+
